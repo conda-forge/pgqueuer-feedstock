@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.0.0"
+  version: "2.1.0"
 
 package:
   name: pgqueuer
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pgqueuer/pgqueuer-${{ version }}.tar.gz
-  sha256: 95f3f83144426c64df0da000f2ae279d692145faaf03915b10ab4197431bb203
+  sha256: 6ff6ce5d3f580fc531b9ad72f2b0ab22cb6eb211abc12c4e9f32d0e3e50cef47
 
 build:
   number: 0
